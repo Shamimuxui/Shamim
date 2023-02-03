@@ -11,40 +11,24 @@ https://stream.sunplex.live/GAZI-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="SPORTS",GAZI TV ᴴᴰ
 http://stream3.iplex.live:9191/sports-ch-1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="0-9-zeebangla" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebangla/channel_web/1170x658_310781121",Zee Bangla HD
+https://zee5.yashrajmod.online/api.php?c=0-9-zeebangla
 
-#EXTINF:-1,ZEE Bangla 
-https://netlivetv.xyz/iptv/jio/streams/8b599024a76a467d03acc685ff03fb80/Zee_Bangla_MOB-audio_98834_eng=98800-video=863200.m3u8?usfAuth=ndeWogvMztu3nJC2nwvJzwi3zwvLyJi0m2rLntaWyZfJndy2ngeXoc0Tlte2nZuYnZK1nZu
+#EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebanglacinema/channel_web/1170x658withlog_1238879598",Zee Bangla Cinema
+https://zee5.yashrajmod.online/api.php?c=0-9-zeebanglacinema
 
-#EXTINF:-1,Sony Max
-https://netlivetv.xyz/iptv/jio/streams/3cdf85f352e7fa0b0fd2e16ac7b287a3/6.m3u8?usfAuth=zJDHyJLKyJzLmtG2mZq3yZa5y2fHytHKotKXyZCYnJfJowyYzwnKzc0Tlte2nZuYnZK3ndu
 
-#EXTINF:-1,Sony Max 2
-https://netlivetv.xyz/iptv/jio/streams/399ba0357352d467b4204fa1787e0ab8/6.m3u8?usfAuth=ywi4zdC1m2q3ogzHmdK2zJfInwqWntK4nwqZztq4yZK2mMe3oti0os0Tlte2nZuYnZK4mdi
+#EXTINF:-1 tvg-id="0-9-zeecinemahd" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo167952257",Zee Cinema HD
+https://zee5.yashrajmod.online/api.php?c=0-9-zeecinemahd
 
-#EXTINF:-1,Sony Max  2
-https://netlivetv.xyz/iptv/jio/streams/399ba0357352d467b4204fa1787e0ab8/5.m3u8?usfAuth=ywi4zdC1m2q3ogzHmdK2zJfInwqWntK4nwqZztq4yZK2mMe3oti0os0Tlte2nZuYnZK4mdi
+#EXTINF:-1 tvg-id="0-9-zeecinema" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinema/channel_web/1170x658withlogo_807278654",Zee Cinema
+https://zee5.yashrajmod.online/api.php?c=0-9-zeecinema
 
-#EXTINF:-1,Zee_Cinema_HD
-https://netlivetv.xyz/iptv/jio/streams/1d21adb67c9c010f2c0a8a9de39ddab2/Zee_Cinema_HD_MOB-audio_98835_eng=98800-video=1173600.m3u8?usfAuth=zdnLmJvMzwfIytm0zdzHywjKmMyZmtK0mJHKnMe5n2i2otvHzdrJzc0Tlte2nZuYnZK5nde
+#EXTINF:-1 tvg-id="0-9-zeebangla" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebangla/channel_web/1170x658310781121",Zee Bangla HD
+https://zee5.yashrajmod.online/api.php?c=0-9-zeebangla
 
-#EXTINF:-1,Discovery
-https://netlivetv.xyz/iptv/jio/streams/62ff7e495e837c11383bf7bf4848d9ab/Discovery_Channel_Bengali_800.m3u8?usfAuth=mtjIn2i2nJq4zwe5ztaZnZGYowy4zgvIndK3odi1ntrImdG0ntqXmc0Tlte2nZuYodaYnJa
-
-#EXTINF:-1,Sony aath
-https://netlivetv.xyz/iptv/jio/streams/dd0ce1df46af44a169b68408cf7282c4/4.m3u8?usfAuth=zJjIngvHnJKXzguYntLJyZHLodjKodm2ytHJngfMmdC0otzHmtG4mY0Tlte2nZuYodaYotC
-
-#EXTINF:-1,ZEE Bangla 
-https://netlivetv.xyz/iptv/jio/streams/b09105eaa462a7765486bee234d73c02/Zee_Bangla_HD_MOB-audio_98835_eng=98800-video=2906400.m3u8?usfAuth=nZG3zJC1nwy0yJK5m2qYmwy1owi0ywnLnZqYywiXzgu1n2u1mZHIzc0Tlte2nZuYoda0mta
-
-#EXTINF:-1,Sony Sports 1
-https://netlivetv.xyz/iptv/jio/streams/f6220770cb4db182bf8bdc5f39d42073/6.m3u8?usfAuth=ztq1mZu1ztu0nwrMmtbHmdG0yZy4ody5mgvIn2e4nwfHmtmWmMy5oc0Tlte2nZuYodaXnJa
-
-#EXTINF:-1,Sony Sports 2
-https://netlivetv.xyz/iptv/jio/streams/8b4b132cdb3e7c7c86b7fe441ce88650/6.m3u8?usfAuth=nZK4ogu5mdm4ywe5nMnMmZeWotnKnwmXywfMntC4yZa2mgeYn2e5ns0Tlte2nZuYodaXotq
-
-#EXTINF:-1,Sony Sports 5
-https://netlivetv.xyz/iptv/jio/streams/3688b9ae1745bd8b59edb08dcf5bc273/6.m3u8?usfAuth=ztqZnJaWzgqWyJiWotaZyteWoteWzMm3yJa2mMeXzge2mJbHmZLHyY0Tlte2nZuYoda0nZa
-
+#EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebanglacinema/channel_web/1170x658withlog1238879598",Zee Bangla Cinema
+https://zee5.yashrajmod.online/api.php?c=0-9-zeebanglacinema
 
 
 #EXTINF:-1 tvg-logo="",
@@ -173,6 +157,54 @@ http://15.1.5.18:8082/bangla-tv/tracks-v1a1/mono.m3u8?token=f209370f6f3c28c7b246
 http://15.1.5.18:8082/BanglaVision/tracks-v1a1/mono.m3u8?token=7daa243c09c2ea6e8b681f136fb20adfb4bed4d7-c3479c338bad898822540846df841a9b-1675154621-1675143821
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla",
+
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonyLIV-SabbirIPTV",SET HD
+https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SonyLIV-SabbirIPTV",Sony SAB HD
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SonyLIV-SabbirIPTV",Sony PAL
+https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SonyLIV-SabbirIPTV",Sony YAY
+https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="SonyLIV-SabbirIPTV",Sony Marathi
+https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SonyLIV-SabbirIPTV",Sony AATH
+https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SonyLIV-SabbirIPTV",Sony MAX HD
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="SonyLIV-SabbirIPTV",Sony MAX
+https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SonyLIV-SabbirIPTV",Sony WAH
+https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SonyLIV-SabbirIPTV",Sony MAX2
+https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SonyLIV-SabbirIPTV",Sony PIX HD
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SonyLIV-SabbirIPTV",Sony BBC Earth HD
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="SonyLIV-SabbirIPTV",Sony TEN 1
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="SonyLIV-SabbirIPTV",Sony TEN 2
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="SonyLIV-SabbirIPTV",Sony TEN 3
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+#EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="SonyLIV-SabbirIPTV",Sony TEN 4
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SonyLIV-SabbirIPTV",Sony TEN 5
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SonyLIV-SabbirIPTV",Sony TEN 1 HD
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SonyLIV-SabbirIPTV",Sony  TEN 2 HD
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SonyLIV-SabbirIPTV",Sony TEN 3 HD
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+#EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SonyLIV-SabbirIPTV",Sony TEN 4 HD
+https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV-SabbirIPTV",Sony TEN 5 HD
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg" group-title="SonyLIV-SabbirIPTV",Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+
 
 
 

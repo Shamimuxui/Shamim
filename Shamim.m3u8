@@ -39,6 +39,12 @@ http://stream2.iplex.live:9191/btv/tracks-v1a1a2a3a4/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png" group-title="Bangladesh", BTV
 http://15.1.5.22:8082/btv/tracks-v1a1/mono.m3u8?token=f2c448b7ecf543fca9cd40e25689f75171e7c475-e490ba6955cd49d5951a30145bd5f633-1672090492-1672079692
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png" group-title="Bangladesh", BTV ᴴᴰ
+http://15.1.1.34:8282/btv/tracks-v1a1/mono.m3u8?token=7171e50001a447a6e9b70dab9c076a24ec8d6a9c-b805b70965b01b85a195158143cd0b39-1675518871-1675508071
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png" group-title="Bangladesh", BTV World
+http://15.1.1.34:8282/btv-world/tracks-v1a1/mono.m3u8?token=76c4039296068cb2efd2305d5c794b25431b1eef-c9d7db2ccb5f085cf16fc3b5b98d266b-1675518929-1675508129
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png"group-title="Documentry",Discovery Science
 http://stream.iplex.live:9191/Discovery-Science/tracks-v1a1/mono.m3u8
 
@@ -72,7 +78,8 @@ http://10.1.1.3/hls/discovery.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/640px-Natgeologo.svg.png"group-title="Documentry",National Geographic ᴴᴰ
 http://10.1.1.3/hls/ngohd.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/640px-Natgeologo.svg.png"group-title="Documentry",National Geographic ᴴᴰ
+http://15.1.1.34:8282/ngohd/tracks-v1a1/mono.m3u8?token=c7e7d26b48f02c8144793ecd8a86efecd671cbf5-a6bd5d8bb8ee156152498264127d94d5-1675518647-1675507847
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Jalsha_Movies.jpg" group-title="Movies", JALSHA MOVIES
 http://15.1.5.14:8082/jalsha-movies/tracks-v1a1/mono.m3u8?token=46cb6037f2d364c4825b7eb6e57e415ded589041-061561133ba9973e08481094a3870127-1672089589-1672078789
@@ -80,7 +87,8 @@ http://15.1.5.14:8082/jalsha-movies/tracks-v1a1/mono.m3u8?token=46cb6037f2d364c4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Jalsha_Movies.jpg" group-title="Movies", JALSHA MOVIES
 http://stream.asdd.cc:9191/Jalsha-movies/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Jalsha_Movies.jpg" group-title="Movies", JALSHA MOVIES ᴴᴰ 
+http://15.1.1.34:8282/jalsha-movies/tracks-v1a1/mono.m3u8?token=b7ded116ac96f5996bfd50a655a9a804eea61d58-c24425ec0a0dc2bad58337e0bfd23fbc-1675518488-1675507688
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Sangeet_Bangla_%282021%2C_with_slogan%29.jpg"group-title="Music",Sangeet Bangla
 http://stream2.iplex.live:9191/sangeet-bangla/tracks-v1a1/mono.m3u8
@@ -88,11 +96,20 @@ http://stream2.iplex.live:9191/sangeet-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Bangla_Talkies.jpeg" group-title="Music",BANGLA TALKIES
 http://15.1.5.10:8082/BANGLA-TALKIES/tracks-v1a1/mono.m3u8?token=f1d41b3ba161c597f961e4e3512322c5ef0a278c-7c58fe80e36e913141fac02365314e91-1672089039-1672078239
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Bangla_Talkies.jpeg" group-title="Music",BANGLA TALKIES
+http://15.1.1.34:8282/BANGLA-TALKIES/tracks-v1a1/mono.m3u8?token=993bc83de34b2198e74f1f5a11e59fca41b89ade-8ef4c3991ae1cbb4eccf4cad89a7afb1-1675518045-1675507245
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png"group-title="Movies",Sony MAX ᴴᴰ
 http://172.16.50.2:8082/Sony-Max/tracks-v1a1/mono.m3u8?token=1c1358f397aa6b68fc7599ab99bf65930c110dca-c6ca664c2568a3039e78c152cd820ac8-1672763835-1672753035
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png"group-title="Movies",Sony MAX ᴴᴰ
 http://stream.iplex.live:9191/Sony-max-hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png"group-title="Movies",Sony MAX ᴴᴰ
+http://15.1.1.34:8282/Sony-Max/tracks-v1a1/mono.m3u8?token=af93660befcc8c2fe5298a6d8deedc470f690822-f15e0e466771a0aedf07a610c25c9e2c-1675518796-1675507996
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png"group-title="Movies",Sony MAX ᴴᴰ
+http://12.1.1.1:8082/Sony-Max/tracks-v1a1/mono.m3u8?token=7951ea5fd808329d8d0199e9809a88c4d6424116-6906a740ed7350d5ccddbdd0ec6791a4-1675519617-1675508817
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" group-title="India",ZEE BANGLA
 http://15.1.5.14:8082/zee-bangla/tracks-v1a1/mono.m3u8?token=c3d67392b21f0f5c8739a559653f08ca66089601-591d0637d6e4204afa38b7b10c746cbb-1672090184-1672079384
@@ -100,14 +117,23 @@ http://15.1.5.14:8082/zee-bangla/tracks-v1a1/mono.m3u8?token=c3d67392b21f0f5c873
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" group-title="India",Zee Bangla ᴴᴰ
 http://172.16.50.2:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=9c14e7a37684c9ea0789873d473444f1fbcce4b7-3e5ee66122313481c0829ad28033ef9e-1672431935-1672421135
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" group-title="India",Zee Bangla ᴴᴰ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" group-title="India",Zee Bangla
 http://stream.asdd.cc:9191/zee-bangla-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" group-title="India",Zee Bangla ᴴᴰ
+http://15.1.1.34:8282/zee-bangla/tracks-v1a1/mono.m3u8?token=82a1df99ce7a9d3501be9f3baf55d18ced0b6655-7267e3de08a308b6b0786aa3a0c9c6cd-1675518587-1675507787
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" group-title="India",Zee Bangla ᴴᴰ
+http://12.1.1.1:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=8b7e2eb4246a00886bef0b7e6435eab91690b23a-21c539f44a7a75b92971b203625eb887-1675519289-1675508489
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png" group-title="India",Star Jalsha
 http://15.1.5.18:8082/jalsha/tracks-v1a1/mono.m3u8?token=d5ccdb1b0e81efb23912a6cf96ff19727db5b00f-c8384a23425bd0268e45dd10ee7b4450-1672090226-1672079426
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Star_Jalsha_Chalo_Paltai_2019_Social_Media_Profile.jpg" group-title="India",Star Jalsha ᴴᴰ
 http://stream.asdd.cc:9191/star-jalsha/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/ZeeBanglaCinema.jpeg" group-title="India",ZEE Bangla Cinema
+http://12.1.1.1:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8?token=9124343c296bbccae68aaef47a0e6b77cab87955-318fda2cea6f1c25d1b84b77b5dfc8df-1675519444-1675508644
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/UqIV8Ro.jpg"group-title="Movies",Dhinchaak 2
 http://stream.iplex.live:9191/Dhinchaak/tracks-v1a1/mono.m3u8
@@ -124,10 +150,14 @@ http://stream.iplex.live:9191/zee-cinema-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/1/16/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg",Zee Bangla cinema ᴴᴰ
 http://stream.asdd.cc:9191/zee-bangla-cinema/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png"group-title="Movies",ZEE Cinema ᴴᴰ
+http://12.1.1.1:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8?token=c37c913c7c2a2eb7337cd82bbecb4f090cf872d5-bfaae906c67e1aab8ed3195cb4e27ad2-1675518743-1675507943
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png"group-title="Movies",ZEE Cinema ᴴᴰ
+http://15.1.1.38:8282/ZeeCinemaHD/tracks-v1a1/mono.m3u8?token=6f29ea6a10daefb4acda93f244737a7cdaafe200-326ff26110ef0b6d4edc7dd6e195687a-1675518815-1675508015
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png"group-title="",Sony Aath ᴴᴰ
+http://15.1.1.34:8282/Sonyaath/tracks-v8a1/mono.m3u8?token=2d6825e819b4c765f8c777d09e54ea756619eb3f-063cd1da0094e0f085cd2d090ff48cfd-1675518979-1675508179
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla",Maasranga TV
 http://15.1.5.18:8082/maasranga/tracks-v1a1/mono.m3u8?token=cb339d114d2158d7679a74e4acc3b5b5429510f4-7c1f20db92abec79945f31e8bde4e0c6-1675154027-1675143227
@@ -157,6 +187,11 @@ http://15.1.5.18:8082/bangla-tv/tracks-v1a1/mono.m3u8?token=f209370f6f3c28c7b246
 http://15.1.5.18:8082/BanglaVision/tracks-v1a1/mono.m3u8?token=7daa243c09c2ea6e8b681f136fb20adfb4bed4d7-c3479c338bad898822540846df841a9b-1675154621-1675143821
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla",
+
+#EXTINF:-1 tvg-logo=""group-title="Bangla",9XM
+http://12.1.1.1:8082/9XM/tracks-v1a1/mono.m3u8?token=fd210ffe52993d780c9265ed632230982b0a39ec-4f9ecf25c2726302513a964b73139cfd-1675519192-1675508392
+
+
 
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonyLIV-SabbirIPTV",SET HD
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8

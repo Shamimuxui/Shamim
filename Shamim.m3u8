@@ -11,8 +11,14 @@ https://stream.sunplex.live/GAZI-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="SPORTS",GAZI TV ᴴᴰ
 http://stream3.iplex.live:9191/sports-ch-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png"group-title="Movies",Sony MAX ᴴᴰ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png"group-title="Documentry",Discovery Science
+http://15.1.1.34:8282/Discovery-Science/tracks-v1a1/mono.m3u8?token=0ff31d5017a1563dbc61dbaae148c5e25c8a9ca5-b5f05d7904310ebd20edfda9856c352f-1677146996-1677136196
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/320px-Natgeologo.svg.png" group-title="Documentry",National Geographic
+http://15.1.1.34:8282/ngohd/tracks-v1a1/mono.m3u8?token=4a21833c16fc6335500431cabc3db85c29598e31-87cb6c5815308f62e31da150b02c4607-1677146960-1677136160
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png"group-title="Movies",Sony MAX ᴴᴰ
+http://15.1.1.38:8282/Sony-Max/tracks-v1a1/mono.m3u8?token=2045013adfd850a26e3a66961e0e45abb0796d8a-d4bd5d7032bf7aee249d16692cc7739a-1677147200-1677136400
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Jalsha_Movies.jpg" group-title="Movies", JALSHA MOVIES ᴴᴰ 
 http://15.1.1.10:8282/jalsha-movies/tracks-v1a1/mono.m3u8?token=5dc3c7bd0028bdb9503a9c8d07ede97276496691-1eddc4625bcd00c5369ee634cdc94914-1677145909-1677135109
@@ -43,41 +49,65 @@ http://15.1.1.10:8282/colore-bangla-cinema/tracks-v1a1/mono.m3u8?token=9870a39a3
 #EXTINF:-1 tvg-logo="",
 
 
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png"group-title="Movies",ZEE Cinema ᴴᴰ
+http://15.1.1.34:8282/ZeeCinemaHD/tracks-v1a1/mono.m3u8?token=d5ff69027d1b1c24242acff815f6bbf73ac30dce-76c2adb73a23a69486c80c404ec912fe-1677147099-1677136299
 
-
-#EXTINF:-1 tvg-logo="",
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="Bangla",Maasranga TV
-
-
-#EXTINF:-1 tvg-logo=""group-title="Bangla",Ekattor-tv
-
-
-#EXTINF:-1 tvg-logo=""group-title="Bangla",Independent Tv
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/UqIV8Ro.jpg"group-title="Movies",Dhinchaak 2
+http://15.1.1.38:8282/Dhinchaak/tracks-v1a1/mono.m3u8?token=3be8be762ca20147a5f43d0327628df737f1a4ef-bc4000412db631b0522ccecc62565ce6-1677147108-1677136308
 
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla",jamuna tv
-
+http://15.1.1.10:8282/jamuna-tv/tracks-v1a1/mono.m3u8?token=3d46e5d4838c7f0f3dd4cc60fa9a4d0e94481cbf-3b0bdaedb54b6018892eabb7a4ad0897-1677146596-1677135796
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla",Somoy TV
+http://15.1.1.34:8282/Somoy-TV/tracks-v1a1/mono.m3u8?token=eaf9b28fe1b8653cc0a1a34d5925547efbd748f7-2c234140b4a853539d3d127dd9a75007-1677146546-1677135746
+
+#EXTINF:-1 tvg-logo=""group-title="Bangla",Ekattor-tv
+http://15.1.1.38:8282/Ekattor-tv/tracks-v1a1/mono.m3u8?token=6f7a2ae9e0c487b6de69e437d7e08bd26bedefd2-665b02fbde3b1059a3783164881985c9-1677146563-1677135763
+
+#EXTINF:-1 tvg-logo=""group-title="Bangla",Independent Tv
+http://15.1.1.10:8282/Independent-Tv/tracks-v1a1/mono.m3u8?token=cbf7c1861959cce4b2c229335c8227e1a849f228-5500f324406e90c58c5e562f524e87b5-1677146580-1677135780
+
+#EXTINF:-1 tvg-logo=""group-title="Bangla",Maasranga TV
+http://15.1.1.34:8282/maasranga/tracks-v1a1/mono.m3u8?token=31bc3aca79786f4bae6936b9710eb6f2c2e81c7b-06227ce389f3ebd3e9b2fdb6851d5fb8-1677146461-1677135661
 
 
-#EXTINF:-1 tvg-logo=""group-title="Bangla",/News 24
-
+#EXTINF:-1 tvg-logo=""group-title="Bangla",News 24
+http://15.1.1.34:8282/News24bd/tracks-v1a1/mono.m3u8?token=02cf4526d0247e045674c4a8744b612bba39a471-b156609e20048cc3d1f7707e84c7c052-1677146586-1677135786
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla",Channel 24
+http://15.1.1.38:8282/Channel24/tracks-v1a1/mono.m3u8?token=2ff327e6ddff9f9dfa22293a1db47ca38a517c15-24fe5eb428d82e6e99924d3958df7de1-1677146690-1677135890
 
-
-#EXTINF:-1 tvg-logo=""group-title="Bangla",bangla tv
-
+#EXTINF:-1 tvg-logo=""group-title="Bangla",Bangla tv
+http://15.1.1.10:8282/bangla-tv/tracks-v1a1/mono.m3u8?token=a2b99ecece0c41101363c558b71343aedbf6a989-47b02921cbdc317dc108af43bb80a632-1677146719-1677135919
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla",Bangla Vision
+http://15.1.1.34:8282/BanglaVision/tracks-v1a1/mono.m3u8?token=631f410d7867076d1f44308910b5325b60a0f902-e3fb62261774348049e6e95d60c5b1aa-1677146677-1677135877
+
+#EXTINF:-1 tvg-logo="",Nagorik tv
+http://15.1.1.38:8282/nagorik-tv/tracks-v1a1/mono.m3u8?token=f8a693be83ff6b0d96d9aaed925dfee0c5e57654-d689c3aea7b1a52bbe9ed1b638946cc8-1677146899-1677136099
+
+#EXTINF:-1 tvg-logo="",Anando tv
+http://15.1.1.38:8282/anandotv/tracks-v1a1/mono.m3u8?token=36f9b3d99b3e42f81cc840779132ec46fe3853d9-50a4e8e3e4542168b71906ddb66287af-1677146946-1677136146
+
+#EXTINF:-1 tvg-logo="",
+http://15.1.1.10:8282/GLOBLA-TV/tracks-v1a1/mono.m3u8?token=6ad9e860dee484b37df44589e6dacec6799b331f-8e4689ca2a5284bda02b9e7fdd57c727-1677147285-1677136485
+
+#EXTINF:-1 tvg-logo="",BTV
+http://15.1.1.34:8282/btv/tracks-v1a1/mono.m3u8?token=e03d815be40d75141ddf86db02a75e461e21e6ca-4b6986c0dafa4eae26dcd17bf7fe181e-1677147263-1677136463
+
+#EXTINF:-1 tvg-logo="",BTV World
+http://15.1.1.34:8282/btv-world/tracks-v1a1/mono.m3u8?token=23d72a8bc85d701f6a4be7c21f15c45bf4734e78-d6a853aa1dce1b37ab1bbbbbea42ae7f-1677147277-1677136477
+
+#EXTINF:-1 tvg-logo="",Sangsad
+http://15.1.1.38:8282/sangsad-tv/tracks-v1a1/mono.m3u8?token=448888becd7c74a7b8fab96ae3b870df426c2e76-57b0cdc93999c62c69be5c0cfcd27dcd-1677147375-1677136575
+
+#EXTINF:-1 tvg-logo="",
 
 
 
+#EXTINF:-1 tvg-logo="",9xm
+http://15.1.1.34:8282/9XM/tracks-v1a1/mono.m3u8?token=a818bd03e2769ecd1e736771d9dce11861c91817-3c47df617f4bfa17e7c85ab563173168-1677146925-1677136125
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" group-title="India",ZEE BANGLA

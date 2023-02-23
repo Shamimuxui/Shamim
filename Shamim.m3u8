@@ -11,11 +11,74 @@ https://stream.sunplex.live/GAZI-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="SPORTS",GAZI TV ᴴᴰ
 http://stream3.iplex.live:9191/sports-ch-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="0-9-zeebangla" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebangla/channel_web/1170x658_310781121",Zee Bangla HD
-https://zee5.yashrajmod.online/api.php?c=0-9-zeebangla
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png"group-title="Movies",Sony MAX ᴴᴰ
 
-#EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebanglacinema/channel_web/1170x658withlog_1238879598",Zee Bangla Cinema
-https://zee5.yashrajmod.online/api.php?c=0-9-zeebanglacinema
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Jalsha_Movies.jpg" group-title="Movies", JALSHA MOVIES ᴴᴰ 
+http://15.1.1.10:8282/jalsha-movies/tracks-v1a1/mono.m3u8?token=5dc3c7bd0028bdb9503a9c8d07ede97276496691-1eddc4625bcd00c5369ee634cdc94914-1677145909-1677135109
+
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Sangeet_Bangla_%282021%2C_with_slogan%29.jpg"group-title="Music",Sangeet Bangla
+http://15.1.1.38:8282/sangeet-bangla/tracks-v1a1/mono.m3u8?token=640972da01db7d93651d1dec6fcb720eb60add79-6801fc95dc415fe6bb25604a79340848-1677145873-1677135073
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Bangla_Talkies.jpeg" group-title="Music",BANGLA TALKIES
+http://15.1.1.34:8282/BANGLA-TALKIES/tracks-v1a1/mono.m3u8?token=66f1544eb2d43d6adaedc63f6559a59415e464d5-255f5c30aea031325a9b56b749ffe519-1677145679-1677134879
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" group-title="India",Zee Bangla ᴴᴰ
+http://15.1.1.38:8282/zee-bangla/tracks-v1a1/mono.m3u8?token=554fe6efea7a357bd0e042316296cfa96ef65308-820af9b0da740d49188a6e45d56cee64-1677145931-1677135131
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/ZeeBanglaCinema.jpeg" group-title="India",ZEE Bangla Cinema
+http://15.1.1.34:8282/zee-bangla-cinema/tracks-v1a1/mono.m3u8?token=dc54c7f1b250c3943de23d1237f1ae9cfe28d8e6-36c39440bae39cf487291a243ddadcd3-1677145951-1677135151
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",Sony aath
+http://15.1.1.10:8282/Sonyaath/tracks-v1a1/mono.m3u8?token=b53a771e699ad68570d0cab06b0fe8aaef400a16-77f3762b20d0a92312bdf00c4240139a-1677146184-1677135384
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png",Sun Bangla
+http://15.1.1.34:8282/sunbangla/tracks-v1a1/mono.m3u8?token=40665abb408b3150c6376b2e003d310c6ccb9dc8-52be3d7ea57adacb33b2e79455b4a7c8-1677146198-1677135398
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/3e/%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",Colore Bangla Cinema
+http://15.1.1.10:8282/colore-bangla-cinema/tracks-v1a1/mono.m3u8?token=9870a39a364dcc22fb52659c19be438e00365578-016cd37be3510993a2f6eed2d662698c-1677146344-1677135544
+
+
+#EXTINF:-1 tvg-logo="",
+
+
+#EXTINF:-1 tvg-logo="",
+
+
+#EXTINF:-1 tvg-logo="",
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="Bangla",Maasranga TV
+
+
+#EXTINF:-1 tvg-logo=""group-title="Bangla",Ekattor-tv
+
+
+#EXTINF:-1 tvg-logo=""group-title="Bangla",Independent Tv
+
+
+#EXTINF:-1 tvg-logo=""group-title="Bangla",jamuna tv
+
+
+#EXTINF:-1 tvg-logo=""group-title="Bangla",Somoy TV
+
+
+#EXTINF:-1 tvg-logo=""group-title="Bangla",/News 24
+
+
+#EXTINF:-1 tvg-logo=""group-title="Bangla",Channel 24
+
+
+#EXTINF:-1 tvg-logo=""group-title="Bangla",bangla tv
+
+
+#EXTINF:-1 tvg-logo=""group-title="Bangla",Bangla Vision
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" group-title="India",ZEE BANGLA
 http://15.1.5.14:8082/zee-bangla/tracks-v1a1/mono.m3u8?token=c3d67392b21f0f5c8739a559653f08ca66089601-591d0637d6e4204afa38b7b10c746cbb-1672090184-1672079384
@@ -32,17 +95,6 @@ http://15.1.1.34:8282/zee-bangla/tracks-v1a1/mono.m3u8?token=82a1df99ce7a9d3501b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" group-title="India",Zee Bangla ᴴᴰ
 http://12.1.1.1:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=8b7e2eb4246a00886bef0b7e6435eab91690b23a-21c539f44a7a75b92971b203625eb887-1675519289-1675508489
 
-#EXTINF:-1 tvg-id="0-9-zeecinemahd" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo167952257",Zee Cinema HD
-https://zee5.yashrajmod.online/api.php?c=0-9-zeecinemahd
-
-#EXTINF:-1 tvg-id="0-9-zeecinema" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinema/channel_web/1170x658withlogo_807278654",Zee Cinema
-https://zee5.yashrajmod.online/api.php?c=0-9-zeecinema
-
-#EXTINF:-1 tvg-id="0-9-zeebangla" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebangla/channel_web/1170x658310781121",Zee Bangla HD
-https://zee5.yashrajmod.online/api.php?c=0-9-zeebangla
-
-#EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebanglacinema/channel_web/1170x658withlog1238879598",Zee Bangla Cinema
-https://zee5.yashrajmod.online/api.php?c=0-9-zeebanglacinema
 
 
 #EXTINF:-1 tvg-logo="",

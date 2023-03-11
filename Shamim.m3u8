@@ -35,6 +35,10 @@ http://15.1.1.34:8282/BANGLA-TALKIES/tracks-v1a1/mono.m3u8?token=66f1544eb2d43d6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" group-title="India",Zee Bangla ᴴᴰ
 http://stream.asdd.cc:9191/zee-bangla-HD/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" group-title="India",Zee Bangla ᴴᴰ
+http://172.16.50.2:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=9017555cef0065df84a02a88d54e62a45ebeb3be-c42e8daef600a984ed601bc7548d116f-1678536025-1678525225
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/ZeeBanglaCinema.jpeg" group-title="India",ZEE Bangla Cinema
 http://15.1.1.34:8282/zee-bangla-cinema/tracks-v1a1/mono.m3u8?token=dc54c7f1b250c3943de23d1237f1ae9cfe28d8e6-36c39440bae39cf487291a243ddadcd3-1677145951-1677135151
 

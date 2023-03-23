@@ -5,6 +5,14 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J4C17230/BPL.jpg" group-title="SPORTS",SPORTS LIVE
 https://stream.sunplex.live/SPORTS-LIVE/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000128509823-3lohhv-t500x500.jpg",Baaton Ko Teri
+https://www.googleapis.com/drive/v3/files/1xwiwPSsnL5jEHPR1X4VW5hsrPq84ADgm?alt=media&key=AIzaSyBz9HPi3apriAjOf5aM68W32bxph96tNIU
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Arijit_Singh_at_the_concert.jpg/220px-Arijit_Singh_at_the_concert.jpg",Suno Na Sangemarmar - Youngistaan
+https://www.googleapis.com/drive/v3/files/1IA2OYGjNtkgegDlrRxzS_vnh8OsuwL59?alt=media&key=AIzaSyBz9HPi3apriAjOf5aM68W32bxph96tNIU
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="SPORTS" ,GAZI TV
 https://stream.sunplex.live/GAZI-TV/tracks-v1a1/mono.m3u8
 

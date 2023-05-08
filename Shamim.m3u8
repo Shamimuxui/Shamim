@@ -5,6 +5,12 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J4C17230/BPL.jpg" group-title="SPORTS",SPORTS LIVE
 https://stream.sunplex.live/SPORTS-LIVE/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" group-title="India",Zee Bangla ᴴᴰ
+https://web-production-38cce.up.railway.app/api?id=0-9-zeebangla
+
+
+
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000128509823-3lohhv-t500x500.jpg",Baaton Ko Teri
 https://www.googleapis.com/drive/v3/files/1xwiwPSsnL5jEHPR1X4VW5hsrPq84ADgm?alt=media&key=AIzaSyBz9HPi3apriAjOf5aM68W32bxph96tNIU
 

@@ -5,6 +5,14 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J4C17230/BPL.jpg" group-title="SPORTS",SPORTS LIVE
 https://stream.sunplex.live/SPORTS-LIVE/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://filmfare.wwmindia.com/images/filmfare_awards_2023_live_coverage_1200x900.jpg"  ,Filmfare Awards
+http://index1.circleftp.net/FILE/AWARDS/68%20FilmFare%20Award%20%282023%29%201080p%20WEB-DL%20AAC%202.0%20H264/68%20FilmFare%20Award%20%282023%29%201080p%20WEB-DL%20AAC%202.0%20H264.mkv
+
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2023/03/Zee-Cine-Awards-Telecast-Time.jpg"  ,Zee Cine Awards (2023)
+http://index1.circleftp.net/FILE/AWARDS/Zee%20Cine%20Awards%20%282023%29%201080p%20WEB-DL%20AAC2.0%20H264/Zee%20Cine%20Awards%20%282023%29%20Main%20Event%201080p%20WEB-DL%20AAC2.0%20H264.mkv
+
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2023/03/Zee-Cine-Awards-Telecast-Time.jpg"  ,Zee Cine Awards (2023)
+http://index1.circleftp.net/FILE/AWARDS/Zee%20Cine%20Awards%20%282023%29%201080p%20WEB-DL%20AAC2.0%20H264/Zee%20Cine%20Awards%20%282023%29%20Red%20Carpet%201080p%20WEB-DL%20AAC2.0%20H264.mkv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" group-title="India",Zee Bangla ᴴᴰ
 http://15.1.1.34:8282/zee-bangla/tracks-v1a1/mono.m3u8?token=19872a1a4cc0692ec2495364d1ded08432195a69-2834581bdefd5bfe9f802204a72ddde5-1683567720-1683556920
